@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.56433135.css","mappings":"AAAA,OAGI,MAAO,CAFP,cAAe,CACf,KAEJ","sources":["components/scene/Scene.css"],"sourcesContent":["canvas{\n    position: fixed;\n    top: 0;\n    left: 0;\n}"],"names":[],"sourceRoot":""}
